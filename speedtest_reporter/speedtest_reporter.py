@@ -58,7 +58,7 @@ class SpeedTestReporter(object):
                     datefmt='%m-%d %H:%M',
                     filename=self.config.get('log', 'log_file'),
                     filemode='a+'
-        )]
+        )
  
 
         ## saved data file (JSON)

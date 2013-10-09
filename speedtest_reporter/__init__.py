@@ -11,4 +11,4 @@
  
 __version__ = "0.0.1"
 
-from speedtest_reporter import report, speedtest
+from speedtest_reporter import SpeedTestReporter 
